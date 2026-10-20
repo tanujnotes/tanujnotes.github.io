@@ -1,4 +1,5 @@
-###### [tanujnotes.com](https://tanujnotes.com)
+##### [tanujnotes.com](https://tanujnotes.com)
+
 
 # Hi, I'm Tanuj
 
@@ -6,7 +7,7 @@ I specialise in making privacy focused minimal apps. 3 million+ downloads across
 
 [Apps](https://play.google.com/store/apps/dev?id=7198807840081074933) · [GitHub](https://github.com/tanujnotes) · [X/Twitter](https://x.com/tanujnotes)
 
-## Selected work
+---
 
 ### Olauncher
 
@@ -55,6 +56,8 @@ Infinitely customizable, an open-source alternative to Nova Launcher.
 Open source
 
 [GitHub](https://github.com/tanujnotes/Supernova)
+
+---
 
 ## Connect
 
