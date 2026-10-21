@@ -1,4 +1,4 @@
-##### [tanujnotes.com](https://tanujnotes.com)
+##### [tanujnotes.com](https://tanujnotes.github.io)
 
 
 # Hi, I'm Tanuj
