@@ -25,13 +25,13 @@ Pro version of Olauncher with extra features. Uniquely combines minimal design a
 
 [Play Store](https://play.google.com/store/apps/details?id=app.prolauncher)
 
-### Pentastic
+### Supernova
 
-A minimal to-do list inspired by the simplicity of pen and paper. Write it down, tick it off, move on. Free and open-source.
+Infinitely customizable, an open-source alternative to Nova Launcher.
 
-4.9 ★ on Play Store
+Open source
 
-[GitHub](https://github.com/tanujnotes/Pentastic) · [Play Store](https://play.google.com/store/apps/details?id=app.pentastic)
+[GitHub](https://github.com/tanujnotes/Supernova) · [F-Droid](https://f-droid.org/en/packages/com.supernova.launcher/)
 
 ### Ogesture
 
@@ -48,14 +48,6 @@ Write notes to yourself the way you'd text a friend. Private, password-protected
 Private by default · Offline backups
 
 [GitHub](https://github.com/jeerovan/ntsapp) · [Play Store](https://play.google.com/store/apps/details?id=com.makenotetoself)
-
-### Supernova
-
-Infinitely customizable, an open-source alternative to Nova Launcher.
-
-Open source
-
-[GitHub](https://github.com/tanujnotes/Supernova)
 
 ---
 
